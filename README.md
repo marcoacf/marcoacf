@@ -3,7 +3,16 @@
 [![Twitter Badge](https://img.shields.io/badge/-@marcoacf-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/marcoacf)](https://twitter.com/marcoacf)
 [![Gmail Badge](https://img.shields.io/badge/-marcoacf-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:marcoacf@gmail.com)](mailto:marcoacf@gmail.com)
 
-
+### Task List
+- [x] MS Excel + VBA (Advanced)
+- [x] SQL + Data Modeling (Advanced)
+- [x] Power BI (Intermediate)
+- [x] Power Query (Advanced)
+- [x] BI Concepts
+- [x] Construction and Maintenance of Dashboards
+- [x] ETL (Intermediate)
+- [x] Python (Intermediate)
+- [ ] Cloud Computing
 
 ```python
 #!/usr/bin/python
@@ -41,13 +50,9 @@ print(arsenal.jsonify())
 | . | . |
 | ----------- | ----------- |
 |<img src="https://i.pinimg.com/564x/6a/25/ff/6a25ff0e2c8d33e6ede55cb939774ce2.jpg" width="400">|<img src="https://i.pinimg.com/564x/8b/ee/af/8beeafe15422ea45639a5565f69576bd.jpg" width="400">|
-|<img src="https://www.codeitbro.com/wp-content/uploads/2020/07/python-meme-1-replace-for-loop-with-numpy-function.jpg" width="200">|<img src="https://www.codeitbro.com/wp-content/uploads/2020/07/python-meme-14-only-programmers-will-understand.jpg" width="200">|
+|<img src="https://www.codeitbro.com/wp-content/uploads/2020/07/python-meme-1-replace-for-loop-with-numpy-function.jpg" width="400">|<img src="https://www.codeitbro.com/wp-content/uploads/2020/07/python-meme-14-only-programmers-will-understand.jpg" width="400">|
 
-### Task List
 
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
 
 ## Latest tweet
 (https://twitter.com/marcoacf/status/1323822384487534592)
