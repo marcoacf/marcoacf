@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Marco Cruz 👋
+#### I'm Brazilian, married, father, fan of comics and addicted to learning programming!
+#### I especially like extracting data and converting it into useful information.
+
 [![Linkedin Badge](https://img.shields.io/badge/-marcoacf-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcoacf/)](https://www.linkedin.com/in/marcoacf/)
 [![Twitter Badge](https://img.shields.io/badge/-@marcoacf-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/marcoacf)](https://twitter.com/marcoacf)
 [![Gmail Badge](https://img.shields.io/badge/-marcoacf-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:marcoacf@gmail.com)](mailto:marcoacf@gmail.com)
