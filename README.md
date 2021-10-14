@@ -51,9 +51,8 @@ class Arsenal:
 arsenal = Arsenal()
 print(arsenal.jsonify())
 ```
+![Github Stats](https://github-readme-stats.vercel.app/api?username=marcoacf&theme=react&show_icons=true
 
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=marcoacf&bg_color=00,e96443,904e95&title_color=fff&text_color=fff)
 
 <!--
 **marcoacf/marcoacf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -64,7 +63,7 @@ print(arsenal.jsonify())
 |<img src="https://i.pinimg.com/564x/6a/25/ff/6a25ff0e2c8d33e6ede55cb939774ce2.jpg" width="400">|<img src="https://i.pinimg.com/564x/8b/ee/af/8beeafe15422ea45639a5565f69576bd.jpg" width="400">|
 |<img src="https://www.codeitbro.com/wp-content/uploads/2020/07/python-meme-1-replace-for-loop-with-numpy-function.jpg" width="400">|<img src="https://www.codeitbro.com/wp-content/uploads/2020/07/python-meme-14-only-programmers-will-understand.jpg" width="400">|
 
-
+![Github Stats](https://github-readme-stats.vercel.app/api?username=marcoacf&bg_color=00,e96443,904e95&title_color=fff&text_color=fff)
 
 ## Latest tweet
 (https://twitter.com/marcoacf/status/1323822384487534592)
