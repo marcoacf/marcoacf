@@ -3,7 +3,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@marcoacf-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/marcoacf)](https://twitter.com/marcoacf)
 [![Gmail Badge](https://img.shields.io/badge/-marcoacf-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:marcoacf@gmail.com)](mailto:marcoacf@gmail.com)
 
-### Task List
+### Skills List
 - [x] MS Excel + VBA (Advanced)
 - [x] SQL + Data Modeling (Advanced)
 - [x] Power BI (Intermediate)
