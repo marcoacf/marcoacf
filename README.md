@@ -38,9 +38,8 @@ class Arsenal:
 arsenal = Arsenal()
 print(arsenal.jsonify())
 ```
-<img src="https://i.pinimg.com/564x/6a/25/ff/6a25ff0e2c8d33e6ede55cb939774ce2.jpg" width="400">
-<img src="https://www.codeitbro.com/wp-content/uploads/2020/07/python-meme-1-replace-for-loop-with-numpy-function.jpg" width="400">
-<img src="https://www.codeitbro.com/wp-content/uploads/2020/07/python-meme-14-only-programmers-will-understand.jpg" width="400">
+|<img src="https://i.pinimg.com/564x/6a/25/ff/6a25ff0e2c8d33e6ede55cb939774ce2.jpg" width="400">|<img src="https://i.pinimg.com/564x/8b/ee/af/8beeafe15422ea45639a5565f69576bd.jpg" width="400">|
+|<img src="https://www.codeitbro.com/wp-content/uploads/2020/07/python-meme-1-replace-for-loop-with-numpy-function.jpg" width="200">|<img src="https://www.codeitbro.com/wp-content/uploads/2020/07/python-meme-14-only-programmers-will-understand.jpg" width="200">|
 
 ## Latest tweet
 (https://twitter.com/marcoacf/status/1323822384487534592)
