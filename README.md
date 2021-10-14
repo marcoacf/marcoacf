@@ -9,7 +9,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-class gyro_gearloose:
+class sidekick:
 
     def __init__(self):
         self.name = "Marco Cruz"
@@ -19,7 +19,7 @@ class gyro_gearloose:
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
-me = gyro_gearloose()
+me = sidekick()
 me.say_hi()
 
 from __future__ import annotations
@@ -44,11 +44,6 @@ print(arsenal.jsonify())
 (https://twitter.com/marcoacf/status/1323822384487534592)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=marcoacf&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
-![](https://raw.githubusercontent.com/marcoacf/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/marcoacf/github-stats-transparent/output/generated/languages.svg)
-
-
 
 <!--
 **marcoacf/marcoacf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
