@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-marcoacf-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcoacf/)](https://www.linkedin.com/in/marcoacf/)
 [![Twitter Badge](https://img.shields.io/badge/-@marcoacf-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/marcoacf)](https://twitter.com/marcoacf)
 [![Gmail Badge](https://img.shields.io/badge/-marcoacf-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:marcoacf@gmail.com)](mailto:marcoacf@gmail.com)
-[![Tumblr Badge](https://img.shields.io/badge/marcoacf-darkblue?style=flat&logo=Tumblr&logoColor=white&link=https://marcoacf.tumblr.com)](https://marcoacf.tumblr.com)
+[![Tumblr Badge](https://img.shields.io/badge/marcoacf-c3479808?style=flat&logo=Tumblr&logoColor=white&link=https://marcoacf.tumblr.com)](https://marcoacf.tumblr.com)
 
 ### Skills List
 - [x] MS Excel + VBA (Advanced)
