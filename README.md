@@ -41,7 +41,7 @@ print(arsenal.jsonify())
 
 
 ## Latest tweet
-[<img src="https://hcti.io/v1/image/c551d575-c4ee-4d81-a037-712351336b0a" width="400">](https://twitter.com/marcoacf/status/1323822384487534592)
+[<img src="https://twitter.com/marcoacf/status/1323822384487534592" width="400">](https://twitter.com/marcoacf/status/1323822384487534592)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=itgoyo&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
