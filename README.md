@@ -43,7 +43,7 @@ print(arsenal.jsonify())
 ## Latest tweet
 (https://twitter.com/marcoacf/status/1323822384487534592)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=itgoyo&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=marcoacf&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 ![](https://raw.githubusercontent.com/marcoacf/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/marcoacf/github-stats-transparent/output/generated/languages.svg)
