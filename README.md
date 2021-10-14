@@ -39,6 +39,7 @@ arsenal = Arsenal()
 print(arsenal.jsonify())
 ```
 <img src="https://www.codeitbro.com/wp-content/uploads/2020/07/python-meme-1-replace-for-loop-with-numpy-function.jpg" width="400">
+<img src="https://www.codeitbro.com/wp-content/uploads/2020/07/python-meme-14-only-programmers-will-understand.jpg" width="400">
 
 ## Latest tweet
 (https://twitter.com/marcoacf/status/1323822384487534592)
