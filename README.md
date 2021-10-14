@@ -1,6 +1,6 @@
 ### Hi there 👋
-[![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcoacf/)](https://www.linkedin.com/in/marcoacf/)
-[![Twitter Badge](https://img.shields.io/badge/-@__jesslim-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/marcoacf)](https://twitter.com/_jesslim)
+[![Linkedin Badge](https://img.shields.io/badge/-marcoacf-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcoacf/)](https://www.linkedin.com/in/marcoacf/)
+[![Twitter Badge](https://img.shields.io/badge/-@__marcoacf-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/marcoacf)](https://twitter.com/_jesslim)
 [![Gmail Badge](https://img.shields.io/badge/-marcoacf-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:marcoacf@gmail.com)](mailto:marcoacf@gmail.com)
 <!--
 **marcoacf/marcoacf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
