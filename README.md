@@ -6,4 +6,9 @@
 **marcoacf/marcoacf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## Latest tweet
-[<img src="https://hcti.io/v1/image/c551d575-c4ee-4d81-a037-712351336b0a" width="400">](https://twitter.com/mscccc/status/1447921381753110537)
+[<img src="https://hcti.io/v1/image/c551d575-c4ee-4d81-a037-712351336b0a" width="400">](https://twitter.com/marcoacf/status/1323822384487534592)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=itgoyo&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+![](https://raw.githubusercontent.com/marcoacf/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/marcoacf/github-stats-transparent/output/generated/languages.svg)
