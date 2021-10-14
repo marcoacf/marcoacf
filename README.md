@@ -53,7 +53,7 @@ print(arsenal.jsonify())
 ```
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=marcoacf&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=marcoacf&bg_color=00,e96443,904e95&title_color=fff&text_color=fff)
 
 <!--
 **marcoacf/marcoacf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
