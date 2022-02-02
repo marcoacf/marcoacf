@@ -42,7 +42,7 @@ from dataclasses import asdict, dataclass
 class Arsenal:
     languages: tuple[str, ...] = ("Python", "R", "VBA", "DAX", "PHP")
     databases: tuple[str, ...] = ("SQLite", "PostgreSQL", "MySQL", "SQL Server", "Oracle")
-    ongoing  : tuple[str, ...] = ("GCP", "Big Query")
+    ongoing  : tuple[str, ...] = ("API Rest", "GCP", "Big Query")
 
     def jsonify(self) -> str:
         return json.dumps(asdict(self), indent=4)
