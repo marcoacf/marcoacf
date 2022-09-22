@@ -7,6 +7,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-marcoacf-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:marcoacf@gmail.com)](mailto:marcoacf@gmail.com)
 [![Tumblr Badge](https://img.shields.io/badge/marcoacf-darkgray?style=flat&logo=Tumblr&logoColor=white&link=https://marcoacf.tumblr.com)](https://marcoacf.tumblr.com)
 
+### Publishing in Power BI
+[![Power BI Badge](https://img.shields.io/badge/Power%20BI-Dashboard%20de%20Vendas-blue&link=)]
+
+
 ### Skills List
 - [x] MS Excel + VBA (Advanced)
 - [x] SQL + Data Modeling (Advanced)
