@@ -8,8 +8,7 @@
 [![Tumblr Badge](https://img.shields.io/badge/marcoacf-darkgray?style=flat&logo=Tumblr&logoColor=white&link=https://marcoacf.tumblr.com)](https://marcoacf.tumblr.com)
 
 ### Publishing in Power BI
-![Power BI Badge](https://img.shields.io/badge/Power%20BI-Dashboard%20de%20Vendas-blue?link=[https://www.linkedin.com/in/marcoacf/](https://app.powerbi.com/groups/me/reports/67d9acdb-f4be-4bf2-a3a6-eba5ead0b342/ReportSection28918823c4dde0e00129))
-[![Power BI Badge](https://img.shields.io/badge/Power%20BI-Dashboard%20de%20Vendas-blue?link=https://www.linkedin.com/in/marcoacf/)]
+![Power BI Badge](https://img.shields.io/badge/Power%20BI-Dashboard%20de%20Vendas-blue?link=[https://www.linkedin.com/in/marcoacf/](https://app.powerbi.com/groups/me/reports/67d9acdb-f4be-4bf2-a3a6-eba5ead0b342/ReportSection28918823c4dde0e00129))(https://app.powerbi.com/groups/me/reports/67d9acdb-f4be-4bf2-a3a6-eba5ead0b342/ReportSection28918823c4dde0e00129)
 
 
 
